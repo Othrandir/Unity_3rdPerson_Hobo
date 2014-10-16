@@ -1,4 +1,4 @@
-Unity_3rdPerson_Hobo
-====================
+UnityThirdPersonTutorial
+========================
 
-3rd person view
+Sample project showing third person camera behavior and Mecanim animations
